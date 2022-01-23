@@ -6,8 +6,8 @@
 * @license - https://icofont.com/license/
 */
 
-@import url('/assets/fonts/icofont.woff');
-@import url('/assets/fonts/icofont.woff2');
+@import url('assets/fonts/icofont.woff');
+@import url('assets/fonts/icofont.woff2');
 @font-face {
     font-family: IcoFont;
     font-weight: 400;
