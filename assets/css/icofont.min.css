@@ -6,13 +6,13 @@
 * @license - https://icofont.com/license/
 */
 
-@import url('icofont.woff');
-@import url(icofont.woff2');
+@import url('https://zehra2.github.io/test.cat/assets/icofont.woff');
+@import url('https://zehra2.github.io/test.cat/assets/icofont.woff2');
 @font-face {
     font-family: IcoFont;
     font-weight: 400;
     font-style: Regular;
-    src: url(icofont.woff2) format("woff2"), url(icofont.woff) format("woff")
+    src: url(https://zehra2.github.io/test.cat/assets/icofont.woff2) format("woff2"), url(https://zehra2.github.io/test.cat/assets/icofont.woff2) format("woff")
 }
 
 [class*=" icofont-"],
